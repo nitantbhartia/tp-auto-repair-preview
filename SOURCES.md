@@ -1,6 +1,6 @@
 # Source ledger: T P Auto Repair
 
-This generated preview is fact-locked to the public sources below. Recheck time-sensitive facts before publication.
+This generated preview is fact-locked to the public sources below. The public details were reviewed for this preview on August 26, 2026; recheck time-sensitive facts before publication.
 
 ## Core record
 
@@ -27,3 +27,12 @@ Core fields use: profile, site, hours
 - **site — T P Auto Repair public site:** https://tpautorepair.net/
 - **hours — T P Auto Repair contact page:** https://tpautorepair.net/contact/
 - **review — T P Auto Repair reviews page:** https://tpautorepair.net/reviews/
+
+## Design imagery
+
+The following original concept images are used for layout and art direction only. They do not represent verified T P Auto Repair projects or customer outcomes:
+
+- `assets/tp-garage.jpg` — illustrative service-bay hero concept
+- `assets/tp-brakes.jpg` — illustrative brake inspection concept
+
+Replace these with approved company photography before presenting the site as a final customer website.
